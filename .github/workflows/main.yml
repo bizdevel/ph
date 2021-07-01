@@ -3,7 +3,7 @@ name: ph3
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 
 jobs:
   docker:
